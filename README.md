@@ -43,7 +43,10 @@
 
 ## 🗣️ Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Vansh&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+![Python](https://img.shields.io/badge/Python-50%25-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-25%25-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-15%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Other](https://img.shields.io/badge/Other-10%25-8b949e?style=flat-square)
 
 ---
 
