@@ -28,22 +28,31 @@
 
 ---
 
+## 📊 GitHub Stats
+
+
+
+| Contributions | Current Streak | Longest Streak |
+|:---:|:---:|:---:|
+| **102** | **🔥 2 days** | **2 days** |
+| Oct 2024 – Present | Apr 4 – Apr 5 | Apr 29 – Apr 30 |
+
+
+
+---
+
+## 🗣️ Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Vansh&layout=compact&theme=github_dark&hide_border=true&langs_count=6)
+
+---
+
 ## 🚀 Currently Focused On
 
 - ▸ Exploring **Neural Networks** & Deep Learning architectures
 - ▸ Building end-to-end **ML pipelines** with real-world datasets
 - ▸ Deploying models using **Fast API REST APIs**
 - ▸ Open to **collaborations** on AI/ML projects
-
----
-
-## 📊 GitHub Stats
-
-![Er-Vansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Er-Vansh&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Vansh&layout=compact&theme=github_dark&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Er-Vansh&theme=github-dark-blue&hide_border=true)
 
 ---
 
