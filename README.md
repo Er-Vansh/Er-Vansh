@@ -1,111 +1,107 @@
 <div align="center">
 
-<!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vansh+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Builder+at+heart;I+don't+just+build+models...;...I+build+solutions.+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:88C0D0&height=180&section=header&text=Vansh%20Maurya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Builder%20of%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Er-Vansh&label=Profile%20Views&color=58A6FF&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/Er-Vansh?label=Followers&style=for-the-badge&color=58A6FF&logo=github)](https://github.com/Er-Vansh?tab=followers)
+<a href="https://github.com/Er-Vansh">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=88C0D0&center=true&vCenter=true&width=600&lines=I+don't+just+build+models+%E2%80%94+I+build+solutions.;B.Tech+AI%2FML+%40+AKTU%2C+Lucknow;Multi-Agent+Systems+%7C+LLMs+%7C+Full-Stack+ML" alt="Typing SVG" />
+</a>
 
 </div>
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/Er-Vansh/Er-Vansh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+## About
 
-<!--
-  ☝️ This snake animation is generated automatically from your real contribution graph.
-  To activate it: add the workflow in the "Setup notes" section at the bottom of this file
-  (one-time, 2 minutes). Until then, GitHub will simply hide this line.
--->
+I'm Vansh — an AI/ML engineer and full-stack builder based in Lucknow, India, currently pursuing my B.Tech in Artificial Intelligence and Machine Learning at AKTU. I care less about building models that work on paper, and more about shipping systems people can actually use.
 
-<br/>
-
-## 🧠 About Me
-
-```python
-class Vansh:
-    def __init__(self):
-        self.role = "B.Tech AI & ML Student @ AKTU, Lucknow"
-        self.gpa = 9.0
-        self.focus = ["Machine Learning", "Multi-Agent Systems", "Full-Stack AI Products"]
-        self.currently_building = "Taste Villa — a B2B e-commerce platform"
-        self.philosophy = "I don't just build models — I build solutions."
-
-    def say_hi(self):
-        return "Let's build something intelligent together 🚀"
-
-me = Vansh()
-print(me.say_hi())
-```
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 🎓 **B.Tech, AI & ML** @ Dr. A.P.J. Abdul Kalam Technical University, Lucknow — **9.0 GPA**
-- 💼 AI/ML Intern @ **LaunchEd Global**
-- 🏆 Back-to-back 1st place — Nexxplora Coding & Debugging Competition (2024, 2025)
-- 🥈 2nd place finishes at multiple project expos
-- 🔭 Currently building **AI Guruji** — a vernacular multi-agent AI tutor, and **Taste Villa** — a B2B food e-commerce platform
-- 🌱 Deep-diving into **CrewAI, LLM orchestration & Three.js**
-- 📫 Reach me at **vanshmaurya00005@gmail.com**
-
-</td>
-<td width="40%" valign="top">
-
-```
-$ whoami
-> AI/ML builder from Lucknow
-
-$ status
-> shipping projects,
-  chasing hackathons,
-  open to internships
-
-$ uptime
-> always learning
-```
-
-</td>
-</tr>
-</table>
+- 🎯 Back-to-back **1st place** winner, Nexxplora Coding & Debugging Competition (2024, 2025)
+- 🥈 2nd place finisher, Prism Expo 2025 (SukoonAI) & LaunchEd Global Project Expo 2024 (NotMyFault.AI)
+- 💼 AI/ML Trainee & Intern @ LaunchEd Global — shipped a GenAI chatbot with 95%+ response accuracy, cut latency 30% through prompt optimization
+- 🎓 B.Tech AI/ML @ AKTU, Lucknow — 9.0 GPA
+- 🌱 Currently building multi-agent AI systems and production-grade ML pipelines
+- 📫 vanshmaurya00005@gmail.com · [LinkedIn](https://github.com/Er-Vansh) · [Portfolio](https://github.com/Er-Vansh)
 
 <br/>
 
-## ⚡ Featured Builds
+## Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=3776AB)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000000?style=flat-square&logo=fastapi&logoColor=009688)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=38B2AC)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Scikit--Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Supabase](https://img.shields.io/badge/-Supabase-000000?style=flat-square&logo=supabase&logoColor=3ECF8E)
+![Google Gemini](https://img.shields.io/badge/-Gemini-000000?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?style=flat-square&logo=pandas&logoColor=150458)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Shadcn UI](https://img.shields.io/badge/-Shadcn%20UI-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=F05032)
+
+</div>
+
+<br/>
+
+## Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 AI Guruji
-Vernacular multi-agent AI tutoring platform for UP Board students, built for the Antigravity Hackathon 2025.
-**Stack:** React · FastAPI · CrewAI (5 agents) · Gemini 1.5 Flash · Supabase
+### 🧑‍🏫 AI Guruji
+Vernacular multi-agent AI tutoring platform for UP Board students (Class 9–12), built for the Antigravity Hackathon 2025.
+
+**Stack:** React · Tailwind · FastAPI · CrewAI (5 agents) · Gemini 1.5 Flash · Supabase · Web Speech API
+
+Hindi-first prompt engineering with a saffron & deep-blue identity, designed to make quality tutoring accessible regardless of language barriers.
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧘 SukoonAI
-AI emotional wellness & counselling platform.
-**Stack:** Next.js · Google MedGemma · Grok API
+### 🧠 SukoonAI
+*Dec 2025 – Present* · [Live ↗](https://sukoon-ai-re.vercel.app)
+
+Full-stack AI mental health platform using Google MedGemma & Grok API for empathetic, real-time conversational support.
+
+**Stack:** Next.js 14 (SSR) · Google MedGemma · Grok API · Tailwind · Shadcn UI
+
+- 98% accessibility score, secure HIPAA-compliant auth
+- Multi-model LLM orchestration with stateful conversation threading for continuous therapeutic dialogue
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🛡️ Intrusion Detection System
-Ensemble ML models for network intrusion detection.
-**Stack:** Python · Scikit-learn
+*2026*
+
+Network security ML system classifying traffic as malicious or benign — **96% detection accuracy** via ensemble modeling.
+
+**Stack:** Python · Scikit-Learn · Random Forest · Gradient Boosting · Pandas · NumPy
+
+- Benchmarked 6 algorithms (Logistic Regression, Naive Bayes, Decision Trees, SVM, Random Forest, Gradient Boosting) on precision-recall tradeoffs
+- Engineered 40+ statistical features from raw packet data; evaluated via confusion matrices & ROC curves
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍛 Taste Villa
-B2B e-commerce platform for an Indian food brand — UPI payments, bulk-order & distributor tooling.
-**Stack:** React/Next.js · Tailwind · Node.js
+### ⚖️ NotMyFault.AI
+*Jul 2024 – Aug 2024* · [Live ↗](https://notmyfaultai.vercel.app)
+
+GenAI excuse-generator chatbot producing context-aware, personalized outputs based on situation, audience, and tone.
+
+**Stack:** JavaScript · HTML/CSS · LLM APIs · RESTful API
+
+- Prompt engineering, intent recognition, and low-latency real-time inference
+- 🥈 2nd Prize, LaunchEd Global Project Expo
 
 </td>
 </tr>
@@ -113,106 +109,45 @@ B2B e-commerce platform for an Indian food brand — UPI payments, bulk-order & 
 
 <br/>
 
-## 📊 GitHub Analytics
+## Achievements & Awards
+
+| Award | Event | Year |
+|---|---|---|
+| 🥇 1st Place, Coding & Debugging Competition (2x) | Nexxplora, organized by SRIMT | 2024 & 2025 |
+| 🥈 2nd Prize | Prism Expo — SukoonAI | 2025 |
+| 🥈 2nd Prize | LaunchEd Global Project Expo — NotMyFault.AI | 2024 |
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Er-Vansh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Vansh&theme=github-dark-blue&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Er-Vansh&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2E3440&icon_color=88C0D0&text_color=434C5E"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Vansh&layout=compact&hide_border=true&bg_color=ffffff&title_color=2E3440&text_color=434C5E"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Er-Vansh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" width="48%"/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-Vansh&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="Activity Graph" width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Er-Vansh&hide_border=true&background=ffffff&stroke=2E3440&ring=88C0D0&fire=88C0D0&currStreakLabel=2E3440&sideLabels=434C5E&dates=434C5E&currStreakNum=2E3440&sideNums=2E3436"/>
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Arsenal
+## Trophies
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://github-profile-trophy.vercel.app/?username=Er-Vansh&theme=flat&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
 <br/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Er-Vansh&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies"/>
-</div>
-
-<br/>
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://vanshmaurya-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vansh-maurya-7742b8315)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshmaurya00005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Er-Vansh)
-
-<br/>
-
-⭐ **"I don't just build models — I build solutions."** ⭐
+![Profile Views](https://komarev.com/ghpvc/?username=Er-Vansh&color=88c0d0&style=flat-square&label=Profile+Views)
 
 </div>
 
-<!--
-=====================================================================
-SETUP NOTES (delete this comment block once done — GitHub won't
-render it anyway, it's invisible on your profile page)
-=====================================================================
-
-1. All the badges/stats above already pull LIVE data from your GitHub
-   account automatically (github-readme-stats, streak-stats, trophy,
-   activity-graph, komarev view counter) — no setup needed, they just work.
-
-2. OPTIONAL — to activate the snake contribution animation at the top:
-   a) Go to your Er-Vansh/Er-Vansh repo → Actions → New workflow → "set up a workflow yourself"
-   b) Name it snake.yml and paste:
-
-      name: generate snake
-      on:
-        schedule:
-          - cron: "0 */6 * * *"
-        push:
-          branches:
-            - main
-        workflow_dispatch: {}
-
-      jobs:
-        generate:
-          runs-on: ubuntu-latest
-          steps:
-            - uses: actions/checkout@v4
-            - uses: Platane/snk@v3
-              with:
-                github_user_name: Er-Vansh
-                outputs: |
-                  dist/github-contribution-grid-snake.svg
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            - uses: crazy-max/ghaction-github-pages@v4
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   c) Commit it, run it once manually from the Actions tab, and the
-      snake image at the top of this README will start animating
-      your real contribution graph.
-=====================================================================
--->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:88C0D0,100:2E3440&height=100&section=footer" width="100%"/>
