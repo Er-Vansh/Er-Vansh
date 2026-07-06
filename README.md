@@ -21,7 +21,7 @@ I'm Vansh — an AI/ML engineer and full-stack builder based in Lucknow, India, 
 - 💼 AI/ML Trainee & Intern @ LaunchEd Global — shipped a GenAI chatbot with 95%+ response accuracy, cut latency 30% through prompt optimization
 - 🎓 B.Tech AI/ML @ AKTU, Lucknow — 9.0 GPA
 - 🌱 Currently building multi-agent AI systems and production-grade ML pipelines
-- 📫 vanshmaurya00005@gmail.com · [LinkedIn](https://github.com/Er-Vansh) · [Portfolio](https://github.com/Er-Vansh)
+- 📫 vanshmaurya00005@gmail.com · [LinkedIn](https://www.linkedin.com/in/vansh-maurya-7742b8315/) · [Portfolio](https://vanshmaurya-portfolio.vercel.app)
 
 <br/>
 
@@ -55,7 +55,8 @@ I'm Vansh — an AI/ML engineer and full-stack builder based in Lucknow, India, 
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍🏫 AI Guruji
+### 🧑‍🏫 AI Guruji  
+*Apr 2026 – May 2026* · [Live ↗](https://sukoon-ai-re.vercel.app)
 Vernacular multi-agent AI tutoring platform for UP Board students (Class 9–12), built for the Antigravity Hackathon 2025.
 
 **Stack:** React · Tailwind · FastAPI · CrewAI (5 agents) · Gemini 1.5 Flash · Supabase · Web Speech API
