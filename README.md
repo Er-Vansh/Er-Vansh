@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:88C0D0&height=180&section=header&text=Vansh%20Maurya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Builder%20of%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:88C0D0&height=180&section=header&text=Vansh%20Maurya&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Developer%20of%20Solutions&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -56,7 +56,8 @@ I'm Vansh — an AI/ML engineer and full-stack builder based in Lucknow, India, 
 <td width="50%" valign="top">
 
 ### 🧑‍🏫 AI Guruji  
-*Apr 2026 – May 2026* · [Live ↗](https://sukoon-ai-re.vercel.app)
+*Apr 2026 – May 2026* · [Live ↗](https://ai-guruji-4rtx.vercel.app)
+
 Vernacular multi-agent AI tutoring platform for UP Board students (Class 9–12), built for the Antigravity Hackathon 2025.
 
 **Stack:** React · Tailwind · FastAPI · CrewAI (5 agents) · Gemini 1.5 Flash · Supabase · Web Speech API
